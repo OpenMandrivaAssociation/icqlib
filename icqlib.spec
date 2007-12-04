@@ -1,6 +1,6 @@
 %define	name	icqlib
 %define	version	1.0.0
-%define	release	9mdk
+%define	release	 %mkrel 9
 
 %define realname icq
 
