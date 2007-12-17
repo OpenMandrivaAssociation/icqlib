@@ -17,7 +17,6 @@ License:	GPL
 Group:		System/Libraries
 Url:		http://kicq.sourceforge.net/
 Source:		%{name}-%{version}.tar.bz2
-Buildroot:	%{_tmppath}/%{name}-buildroot
 
 %description
 Icqlib is the most feature complete, open source, library implementation
