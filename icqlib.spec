@@ -15,7 +15,7 @@ Version:	%{version}
 Release:	%{release}
 License:	GPL
 Group:		System/Libraries
-Url:		http://kicq.sourceforge.net/
+Url:		https://kicq.sourceforge.net/
 Source:		%{name}-%{version}.tar.bz2
 Buildroot:	%{_tmppath}/%{name}-buildroot
 
